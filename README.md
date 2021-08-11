@@ -2,7 +2,7 @@
 Employee Appreciation Based On customer Satisfaction
 
 Team members:
-  Arjun Sunil Nair  
-  Akshat Sai Kadam
-  Sharan S 
+  Arjun Sunil Nair ,
+  Akshat Sai Kadam,
+  Sharan S \n
  Video demonstation link: 
